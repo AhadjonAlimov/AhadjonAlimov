@@ -56,6 +56,6 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="left"><a href="https://github.com/AhadjonAlimov/Eatery-web" align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhadjonAlimov&repo=Eatery-web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AhadjonAlimov/Twitter-clone-home" align="right"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhadjonAlimov&repo=Twitter-clone-home&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="left"><a href="https://github.com/AhadjonAlimov/Eatery-web" align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhadjonAlimov&repo=Eatery-web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AhadjonAlimov/Twitter-clone-home" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhadjonAlimov&repo=Twitter-clone-home&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/AhadjonAlimov/Facebook-clone-web" align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhadjonAlimov&repo=Facebook-clone-web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
