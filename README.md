@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahadjon Alimov</h1>
-<h2 align="center">Full Stack Web developer</h2>
+<h2 align="center">Full Stack Web Developer</h2>
 <img align="right" alt="Coding" width="300" src="https://soshell.digital/wp-content/uploads/2022/02/Website-developement.gif">
 
 - 🌍  I'm based in Uzbekistan
